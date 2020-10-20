@@ -1,0 +1,184 @@
+Reason: Password in URL
+Date: 2020-06-18 00:19:24
+Hash: ff7951eb6111ac242d6b0f28945cd6e8ca26e721
+Filepath: apps/sb-ext-actors/src/main/resources/application.properties
+Branch: origin/master
+Commit: Committed mobile-android code
+
+mongodb://kmadmin:passw0rd@localhost:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Slack Webhook
+Date: 2020-06-16 21:09:13
+Hash: a570be7e0dcb2bed3755cdca6d36a971841cb336
+Filepath: Deployment/ansible_workspace_dir/roles/deploy-monitoring-service/templates/monitoring-service-env.j2
+Branch: origin/master
+Commit: Merge pull request #6 from igot-gov/ansible-scripts
+
+Ansible scripts
+https://hooks.slack.com/services/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
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-06-16 21:09:13
+Hash: a570be7e0dcb2bed3755cdca6d36a971841cb336
+Filepath: apps/sb-ext-actors/src/main/resources/application.properties
+Branch: origin/master
+Commit: Merge pull request #6 from igot-gov/ansible-scripts
+
+Ansible scripts
+mongodb://kmadmin:passw0rd@localhost:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Slack Webhook
+Date: 2020-06-13 02:20:41
+Hash: d39933081125da3a1fb23a9ee2c69280dd094873
+Filepath: Deployment/ansible_workspace_dir/roles/deploy-monitoring-service/templates/monitoring-service-env.j2
+Branch: origin/master
+Commit: Added auth service
+
+https://hooks.slack.com/services/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
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-06-13 02:20:41
+Hash: d39933081125da3a1fb23a9ee2c69280dd094873
+Filepath: apps/sb-ext-actors/src/main/resources/application.properties
+Branch: origin/master
+Commit: Added auth service
+
+mongodb://kmadmin:passw0rd@localhost:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Slack Webhook
+Date: 2020-06-12 07:46:54
+Hash: 3287bec17bb75fa1abf79fe347386c834a3ca3aa
+Filepath: Deployment/ansible_workspace_dir/roles/deploy-monitoring-service/templates/monitoring-service-env.j2
+Branch: origin/master
+Commit: moved ansible_workspace_dir to Deployment directory
+
+https://hooks.slack.com/services/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
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-06-12 07:46:54
+Hash: 3287bec17bb75fa1abf79fe347386c834a3ca3aa
+Filepath: apps/sb-ext-actors/src/main/resources/application.properties
+Branch: origin/master
+Commit: moved ansible_workspace_dir to Deployment directory
+
+mongodb://username:password@IPADDRESS:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Slack Webhook
+Date: 2020-06-12 06:31:18
+Hash: 2f82476093a91363d0aadcb099678735cb23907b
+Filepath: apps/ansible_workspace_dir/roles/deploy-monitoring-service/templates/monitoring-service-env.j2
+Branch: origin/master
+Commit:
+
+Fix for Authoring service
+https://hooks.slack.com/services/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
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Slack Webhook
+Date: 2020-06-12 04:57:19
+Hash: 9c020bd7ffd2e1a1c4f9fea51708c856df81857e
+Filepath: apps/ansible_workspace_dir/roles/deploy-monitoring-service/templates/monitoring-service-env.j2
+Branch: origin/master
+Commit: added ansible scrpts
+
+https://hooks.slack.com/services/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
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-06-12 04:57:19
+Hash: 9c020bd7ffd2e1a1c4f9fea51708c856df81857e
+Filepath: apps/sb-ext-actors/src/main/resources/application.properties
+Branch: origin/master
+Commit: added ansible scrpts
+
+mongodb://username:password@IPADDRESS:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-06-11 09:55:27
+Hash: c2411069e469a90a85448bb952e38a05c912f1a1
+Filepath: apps/sb-ext-actors/src/main/resources/application.properties
+Branch: origin/master
+Commit: Added ordinals file
+
+mongodb://username:password@IPADDRESS:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-06-04 03:33:32
+Hash: afe3ea76052acebedb1edfe7b6571bf6a22315eb
+Filepath: apps/sb-ext-actors/src/main/resources/application.properties
+Branch: origin/master
+Commit:
+
+Application properties updates
+mongodb://username:password@IPADDRESS:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-05-26 03:49:47
+Hash: c39c469275addd53b8e9781b93baeafde7cc1af2
+Filepath: apps/lex-core-service/src/main/java/com/infosys/lex/common/service/ContentServiceImpl.java
+Branch: origin/master
+Commit: Added changes
+
+url://elastic:Es$v2atc10@IPaddress:1201/mlsearch_*/_search", Map.class);
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-05-07 01:54:30
+Hash: 2f0416eabbfc38b26d3afa778bc0c2ad5364f78d
+Filepath: apps/sb-ext-actors/bin/src/main/resources/application.properties
+Branch: origin/master
+Commit: Added sb-ext-actors
+
+mongodb://kmadmin:passw0rd@:27017/admin
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: RSA private key
+Date: 2020-05-07 01:54:30
+Hash: 2f0416eabbfc38b26d3afa778bc0c2ad5364f78d
+Filepath: apps/sb-ext-actors/bin/suhasSSH
+Branch: origin/master
+Commit: Added sb-ext-actors
+
+-----BEGIN RSA PRIVATE KEY-----
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-05-07 01:39:58
+Hash: 3026c4588cec3f801537de1f01212ed1cc1bac3c
+Filepath: apps/lex-core-service/src/main/java/com/infosys/lex/common/service/ContentServiceImpl.java
+Branch: origin/master
+Commit: Added lex core
+
+url://elastic:Es$v2atc10@IPaddress:1201/mlsearch_*/_search", Map.class);
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+Reason: Password in URL
+Date: 2020-05-07 01:39:58
+Hash: 3026c4588cec3f801537de1f01212ed1cc1bac3c
+Filepath: apps/lex-core-service/src/main/resources/application.properties
+Branch: origin/master
+Commit: Added lex core
+
+mongodb://kmadmin:pass@IPaddress:27017/admin
+testing@inf0sys.com:@bc12345
+Testing@infosys.com:@abc12345
